@@ -12,6 +12,7 @@ MAGNUSSON: "Eli Vance was a good friend, a good colleague, and a good father.
 Magnusson steps down. You turn around and see people leaving, murmuring to each other. 
 
 **********
+As you walk around, you hear rebels arguing with each other.
 
 REBEL TALKS 
 
@@ -83,7 +84,7 @@ REBEL TALKS
 
 **********
 
-As you walk by a door to a hangar, you hear Alyx shout
+As you walk by a door to another hangar, further down the line, you hear Alyx shout
 
 ALYX: "I just don't know what to do!".
 When you walk in you see Alyx sitting against a wall with Magnusson standing next to her. Magnusson reaches down to 
