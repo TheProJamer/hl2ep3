@@ -179,21 +179,24 @@ All the weapons are gone except the Grav gun and Alyx's gun
 
 Alyx uses "a device" to follow mossman's coordinates. Eventually they find the combine outpost.
 
-As they approach it, they don't see a entrance. Alyx proposes you walk around it. You follow alyx and see a pit. With some sort of lift in it.
+As they approach it, they don't see a entrance. Alyx proposes you walk around it. As you walk around, you see a dropoff. As you near it, you see a body. This body has a Ice Pick
 
-ALYX: "I don't think we can get down this way."
+ALYX: "That could be useful. Lets bring it with us."
 
-After walking more, you find a body hidden in a small alcove. It has a Ice pick. 
+Once you get to the edge of the cliff, you see a ledge below.
 
-ALYX: "I think you can get to the bottom of that pit with that. Lets try it."
+ALYX: "I think you can get to the ledge with that sledgehammer. Lets try it."
 
 You get there and climb down to the bottom.
 
 ALYX: "Do you see anyway to get me down?"
 
-You walk around a little bit and solve a puzzle to get the lift working
+You walk around a little bit and grab some pieces of a machine. Once you put about (3) in a machine, some unknown aliens attack you.
 
-ALYX: "Great"
+ALYX: "What's happening down there?"
+
+You fight some more, then get the lift to finish. Once the lift is going up some more aliens attack you
+
 
 ********
 
