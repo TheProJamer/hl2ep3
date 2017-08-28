@@ -149,7 +149,7 @@ The pilot would try to out maneuver but it would be too much to dodge
 
 The Pilot: Brace Yourselves! Prepare for Impact!!!!
 
-If you looked to the left you would be able to the shell go through the helicopter
+If you looked to the left you would be able to see a shell go through the helicopter
 
 The helicopter would start to spin and would fall to the ground
 
@@ -165,7 +165,7 @@ the screen would go black for a second and you would hear the gordon freeman bre
 
 The screen would be a bit blurry
 
-Alyx: Gordon… no please… you too...
+Alyx: "Gordon... no... please no.... not again..."
 
 Gordon Stands up
 
