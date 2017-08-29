@@ -117,6 +117,7 @@ REBEL RESPONSES BELOW
 	"You smell that? That's freedom."
 	"We're about to drop the hammer, you'll see."
 	"Please. Don't keep me waiting."
+	"We should be used to these things happening by now. We know it's bound to happen sooner or later, but when they do... it never gets easier. It never does"
 
 **********
 
