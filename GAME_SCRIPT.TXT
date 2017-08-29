@@ -216,7 +216,7 @@ ALYX: "That could be useful. Lets bring it with us."
 
 Once you get to the edge of the cliff, you see a ledge below.
 
-ALYX: "I think you can get to the ledge with that sledgehammer. Lets try it."
+ALYX: "I think you can get to the ledge with that icepick. Lets try it."
 
 You get there and climb down to the bottom.
 
