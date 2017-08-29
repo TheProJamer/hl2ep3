@@ -100,7 +100,7 @@ REBEL RESPONSES BELOW
 	"Sorry for your loss, Freeman."
 	"We'll make the Combine pay!"
 	"When will war end?"
-	"Freeman, you're a scientist! Um, I need help with a rash."
+	"Gordon, you are a doctor right? Um, I need help with a rash."
 	"Do you think Eli's looking down at us?"
 	"The Borealis better be true."
 	"Ah! You scared me, Freeman."
