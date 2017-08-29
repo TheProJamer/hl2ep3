@@ -1,22 +1,14 @@
 CHAPTER 1
 
 In a empty hangar, like the one that the helicopter in EP2 is stored in, the funeral of Eli Vance proceeds
-Magnusson says 
+ The game will begin with a black screen showing the title and starting with the very first part of Magnuson's
+speech in the background, then the funeral scene will apear slowly as a transition and Magnuson keeps talking, "Eli Vance was a good friend, a good colleague, and a good father. He always had brilliant ideas for the progress of mankind , and he brave and tirelessly fought against the forces that have undergone our species for a long time to regain our freedom. It is truly hard to concieve that our most recent victory has been overshadowed by the departure of a beloved friend as Eli Vance was To honour him, it is my, and was his, wish that we should destroy the Borealis, to prevent it from  falling into the hands of our greatest enemies I am sure his loving daughter, Alyx, will fulfill this wish.
+He stands proud with generals sitting behind him, and a closed casket in front of him. The hanger is quiet except for his voice until it stops.Mag shouts out, "The Combine will fall. The combine will be destroyed. Our forces will avenge our loss ones, and bring about a new age of peace and prospertity!" Gordon is standing among a crowd of Rebels, agreeing with the doctor loudly. After his speech, Mag will step down and disappear among the crowd. The crowd disperses and Gordon is controlled by himself to the outside where small groups of Rebels gather around to speak against walls, by the helicopters, or just anywhere. The player can now free roam and explore the facility. Gordon will find his objective after searching and speaking with Kleiner who is at a workbench, repairing a radio as Rebels sit and relax around him. "Good morning Freeman!" Kleiner would say happily then fall into a depression, "Well, it would have been a good morning if not for Eli." Kleiner places his radio down and approaches Freeman, "I've known Eli for many long years; in fact, I still remember the day when he entered Black Mesa. I knew he would be special in some way, yet I was ignorant until now. I wish he was told of how important he was to everyone before his unjust death, but there is no need to cry now; there's only need to be happy. I am sure Alyx would help finish what he began, but I'm not sure how she's holding up. Can you check on her? I know that she is a very strong young woman, but witnessing her father die might have broken her. From what I hear, she's in another hanger area, so please check on her - she might need you, Gordon." Kleiner would walk to other experiments, checking on them and doing stuff as he speaks, including desperately looking for Lamarr. Gordon would travel to a different hanger where he would find Alyx sitting alone with Dog standing beside her. Mag would be speaking to her, but not clearly heard, but stops when he notices Gordon. after Mag stops, he clears his throat, "Didn't see you there, Gordon," he fixes his tie, "I was comforting Alyx over here."
+"Right Alyx?" He asks her. She looks up at Gordon then to Mag and back before speaking, "Yes, he was helping me." Mag smiles and approaches Gordon, saying, "Well Gordon.... good luck, and be careful. I wouldn't want to lose you and her over a simple search and destroy mission." Mag leaves, and Alyx retreats her head to face the floor. Dog places a hand on her shoulder and comfortly makes mechanical noises only to be yelled at, "Get off of me!" Dog backs up, whimpering. Alyx stands and tries to comfort Dog, worried, "I'm sorry. I don''t know what came o-" She pauses then looks to Gordon, "Forget it," she says, "Let's go Gordon." Gordon and Alyx stroll through the facility and arrive at the helicopter at its landing pad. Dog follows them. They watch Rebel soldiers yelling out as they places equipment on the roaring copter, "It's gonna be a frozen hellscape up there, and with the Combine, you're gonna be in for one hell of a treat!" Alyx smirks and says through her strained voice, "I'm ready for anything." Alyx climbed into the copter and straps herself in. Gordon follows and sits opposite to her. Dog waves at Alyx, and Alyx waves back frantically. The helicopter lifts up, and the chapter ends.
 
-MAGNUSSON: "Eli Vance was a good friend, a good colleague, and a good father. 
-	He always had brilliant ideas for the progress of mankind , and he brave and tirelessly fought against the forces that have undergone our species for a long time to regain our freedom.
-	It is truly hard to concieve that our most recent victory has been overshadowed by the departure of a beloved friend as Eli Vance was
-	To honour him, it is my, and was his, wish that we should destroy the Borealis, to prevent it from  falling into the hands of our greatest enemies"
-	I am sure his loving daughter, Alyx, will fulfill this wish."
+REBEL SCRIPTS BELOW
 
-Magnusson steps down. You turn around and see people leaving, murmuring to each other. 
-
-**********
-As you walk around, you hear rebels arguing with each other.
-
-REBEL TALKS 
-
-	REBEL 1: "The super portal seems to be gone, good thing the rocket launch worked."
+REBEL 1: "The super portal seems to be gone, good thing the rocket launch worked."
 
 	REBEL 2: "Yeah, but It's too bad that the advisors got Eli before Gordon and Alyx left"
 
@@ -68,7 +60,7 @@ REBEL TALKS
 
 	REBEL 5: "Really? I would like to know what I am going to be ordered to do."
 
-	REBEL 6: "You want to get removed over a stupid ship?"
+	REBEL 6: "You want to get expelled over a stupid ship?"
 
 	REBEL 5: "Of course not, I just want to know what they are doing. Eli always told us."
 
@@ -81,6 +73,30 @@ REBEL TALKS
 	REBEL 5: "Ok, I will be quiet."
 
 	REBEL 6: "Finally."
+
+REBEL RESPONSES BELOW
+
+"Hello."
+"Sorry for your loss, Freeman."
+"We'll make the Combine pay!"
+"When will war end?"
+"Freeman, you're a scientist! Um, I need help with a rash."
+"Do you think Eli's looking down at us?"
+"The Borealis better be true."
+"Ah! You scared me, Freeman."
+"Hey, Freeman, is this about the wrench? I didn't know it was yours."
+"Hello, Gordon!"
+"Are you going to tell us stories of Black Mesa, Gordon?"
+*whisper* "Hey, Gordon, what's so important about Eli?"
+"I wonder how Alyx is dealing with all this."
+"God, what I would do for a drink around here."
+"I've lost a whole lot back at City 17, and not much has changed. I'm going to miss him."
+"I'm going to take a finger from each Combine freak I see to honour Eli."
+"I miss my home, Freeman, and now I must miss someone like Eli. Please, avenge Mister Vance and finish this war. I want to go home."
+"Sometimes... I dream about cheese."
+"You smell that? That's freedom."
+"We're about to drop the hammer, you'll see."
+"Please. Don't keep me waiting."
 
 **********
 
