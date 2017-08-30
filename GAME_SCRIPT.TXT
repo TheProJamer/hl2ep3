@@ -1,17 +1,17 @@
 CHAPTER 1
 
 The game will begin with a black screen showing the title and starting with the very first part of Magnuson's
-speech in the background, then the funeral scene will apear slowly as a transition and Magnuson keeps talking,
+speech in the background, then the funeral scene will apear slowly as a transition and Magnusson keeps talking,
 
-MAGNUSSON: "Eli Vance was a good friend, a good colleague, and a good father. He always had brilliant ideas for the progress of mankind, and he brave and tirelessly fought against the forces that have undergone our species for a long time to regain our freedom. It is truly hard to concieve that our most recent victory has been overshadowed by the departure of a beloved friend as Eli Vance was To honour him, it is my, and was his, wish that we should destroy the Borealis, to prevent it from  falling into the hands of our greatest enemies. I am sure his loving daughter, Alyx, will fulfill this wish.
+MAGNUSSON: "Eli Vance was a good friend, a good colleague, and a good father. He always had brilliant ideas for the progress of mankind, and he bravely and tirelessly fought against the forces that have tried to dominate our species. It is truly hard to concieve that our most recent victory has been overshadowed by the departure of such a beloved friend as Eli Vance was. To honour him, it is my, and was his, wish that we should destroy the Borealis, to prevent it from falling into the hands of our greatest enemies. I am sure his loving daughter, Alyx, will fulfill this wish.
 
-He standsproud with generals sitting behind him, and a closed casket in front of him. The hanger is quiet except for his voice until it stops.
+He standsproud with generals sitting behind him, and a closed casket in front of him. The hangar is quiet except for his voice until it stops.
 
 Mag shouts out
 
-MAGNUSSON: "The Combine will fall. The combine will be destroyed. Our forces will avenge our loss ones, and bring about a new age of peace and prospertity!" 
+MAGNUSSON: "The Combine will fall. They shall be destroyed. Our forces will avenge our loved ones, and bring about a new age of peace and prospertity!" 
 
-After his speech, Mag will step down and disappear among the crowd. The crowd disperses and Gordon is controlled by himself to the outside where small groups of Rebels gather around to speak against walls, by the helicopters, or just anywhere. The player can now free roam and explore the facility. Gordon will find his objective after searching and speaking with Kleiner who is at a workbench, repairing a radio as Rebels sit and relax around him. 
+After his speech, Mag will step down and disappear among the crowd. The crowd disperses and Gordon is controlled by himself. Outside where small groups of Rebels gather around to speak against walls, by the helicopters, or just anywhere. The player can now free roam and explore the facility. Gordon will find his objective after searching and speaking with Kleiner who is at a workbench, repairing a radio as Rebels sit and relax around him. 
 
 **********
 
@@ -19,31 +19,34 @@ KLEINER: "Good morning Freeman!" Kleiner would say happily then fall into a depr
 
 Kleiner places his radio down and approaches Freeman
 
-KLEINER: "I've known Eli for many long years; in fact, I still remember the day when he entered Black Mesa. I knew he would be special in some way, yet I was ignorant until now. I wish he was told of how important he was to everyone before his unjust death, but there is no need to cry now; there's only need to be happy. I am sure Alyx would help finish what he began, but I'm not sure how she's holding up. Can you check on her? I know that she is a very strong young woman, but witnessing her father die might have broken her. From what I hear, she's in another hanger area, so please check on her - she might need you, Gordon. Oh, and I just finished fixing up your old Gravity Gun. It is over there."
+KLEINER: "I've known Eli for many long years; in fact, I still remember the day when he entered Black Mesa. I knew he would be special in some way, yet I was ignorant until now. I wish he was told of how important he was to everyone before his unjust death, but there is no need to cry now; there's only need to be happy. I am sure Alyx would help finish what he began, but I'm not sure how she's holding up. Can you check on her? I know that she is a very strong young woman, but witnessing her father die might have broken her. From what I hear, she's in another hangar area, so please check on her - she might need you, Gordon. Oh, and I just finished fixing up your old Gravity Gun. It is over there."
 
 Kleiner walks to other experiments, checking on them and doing stuff as he speaks, including desperately looking for Lamarr.
 
+The door to Alyx's hangar would be opened once you got the grav gun.
+
 **********
+
 As you walk around, you hear rebels arguing with each other.
 
 REBEL TALKS 
 
 	REBEL 1: "The super portal seems to be gone, good thing the rocket launch worked."
 
-	REBEL 2: "Yeah, but It's too bad that the advisors got Eli before Gordon and Alyx left"
+	REBEL 2: "Yeah, but it's too bad that the advisors got Eli before Gordon and Alyx left."
 
 	REBEL 1: "I just wonder about Alyx... she doesn't quite seem herself"
 
 	REBEL 2: "It must be hard, losing your father like that. Everybody is looking on her to follow through with her fathers plans."
 
-	REBEL 1: "You mean about the Borealis? Hmm, I thought is obvious that it is a better idea saving it to use against the Combine."
+	REBEL 1: "You mean about the Borealis? Hmm, I thought it is obvious that it is a better idea saving it to use against the Combine."
 
 	REBEL 2: "What do you mean? That would be dangerous, it should be destroyed immediately!"
 
 	REBEL 1: "But Dr. Kleiner has shown that with the technology on that ship, we could defeat the Combine for good."
 
 	REBEL 2: "That's a stronger reason to destroy it. If the Combine reach it before we do, they could could totally exterminate us."
-
+	
 	REBEL 1: "Yes, but if the Combine reach it before we do, we can't destroy it anyway. Better to take what you can have then destroy it."
 
 	REBEL 2: "I think we should spend more time in weapons research. Dr. Magnusson has been attempting to create a long-range missile that could destroy the Borealis. If we let him have more time, he could possibly make one."
@@ -53,30 +56,30 @@ REBEL TALKS
 	REBEL 2: "Stop that..."
 
 
-	REBEL 3: "Well, seems like they are preparing us to travel for the search of that so-called "Borealis"
+	REBEL 3: "Well, seems like they are preparing us to travel for the search of that so-called "Borealis""
 
-	REBEL 4: "Yeah, i've heard that ship was lost in ages, and it has a lot of science stuff inside of it"
+	REBEL 4: "Yeah, I've heard that ship was lost ages ago, and it has a lot of science stuff inside of it"
 
-	REBEL 3: "What type of sience stuff."
+	REBEL 3: "What type of science stuff."
 
-	REBEL 4: "I believe its something powerful, like... i don't know, maybe a super weapon or things like that"
+	REBEL 4: "I believe its something powerful, like... I don't know, maybe a super weapon or something like that"
 
 	REBEL 3: "Whew, Do you think they will let us use it?"
 
-	REBEL 4: "We are not going to play with some kind of toys, we are going to destroy that ship when we will find it."
+	REBEL 4: "We are not going to play with some toys, we are going to destroy that ship when we will find it."
 
-	REBEL 3: "WHAT? Why do they want us to do that? Its stupid"
+	REBEL 3: "WHAT? Why do they want us to do that? It's stupid"
 
 	REBEL 4: "Calm down, I am sure we will know once we get there"
 
-	REBEL 3: "But, I don't understand, if that Borealis thing can help us to win this blasted war, Why do they want to blow the crap out of it? We"
+	REBEL 3: "But, I don't understand, if that Borealis thing can help us to win this blasted war, Why do they want to blow the crap out of it? We..."
 
 	REBEL 4: "They must have their reasons, we need to trust them. We are not scientists anyway."
 
 
 	REBEL 5: "What do you think about Dr. Magnusson and Dr. Kleiner arguing about the Borealis?"
 
-	REBEL 6: "I think we should be quiet and let do their thing."
+	REBEL 6: "I think we should be quiet and let them do their thing."
 
 	REBEL 5: "Really? I would like to know what I am going to be ordered to do."
 
@@ -84,7 +87,7 @@ REBEL TALKS
 
 	REBEL 5: "Of course not, I just want to know what they are doing. Eli always told us."
 
-	REBEL 6: "Well Eli's dead. So just do your work."
+	REBEL 6: "Well, Eli's dead. So just do your work."
 
 	REBEL 5: "You can't expel me. People can't get kicked out of rebels."
 
@@ -99,19 +102,19 @@ REBEL RESPONSES BELOW
 	"Hello."
 	"Sorry for your loss, Freeman."
 	"We'll make the Combine pay!"
-	"When will war end?"
-	"Gordon, you are a doctor right? Um, I need help with a rash."
-	"Do you think Eli's looking down at us?"
-	"The Borealis better be true."
+	"When will this war end?"
+	"Gordon, you are a doctor right? *mumbles* Seems like there are a lot of doctors around here."
+	"Do you think Eli's looking down at us wherever he is?"
+	"The Borealis better be a real thing."
 	"Ah! You scared me, Freeman."
 	"Hey, Freeman, is this about the wrench? I didn't know it was yours."
 	"Hello, Gordon!"
-	"Are you going to tell us stories of Black Mesa, Gordon?"
+	"Are you going to tell us stories about Black Mesa, Gordon?"
 	*whisper* "Hey, Gordon, what's so important about Eli?"
 	"I wonder how Alyx is dealing with all this."
 	"God, what I would do for a drink around here."
-	"I've lost a whole lot back at City 17, and not much has changed. I'm going to miss him."
-	"I'm going to take a finger from each Combine freak I see to honour Eli."
+	"I've lost a whole lot back at City 17, and not much has changed. I'm going to miss Eli."
+	"I'm going to take a finger from each Combine freak I see to honour Eli. If they have any."
 	"I miss my home, Freeman, and now I must miss someone like Eli. Please, avenge Mister Vance and finish this war. I want to go 		home."
 	"Sometimes... I dream about cheese."
 	"You smell that? That's freedom."
@@ -121,13 +124,13 @@ REBEL RESPONSES BELOW
 
 **********
 
-Gordon would travel to a different hanger where he would find Alyx sitting alone with Dog standing beside her. Mag would be speaking to her, but not clearly heard, but stops when he notices Gordon. after Mag stops, he clears his throat,
+Gordon would travel to a different hangar where he would find Alyx sitting alone with Dog standing beside her. Mag would be speaking to her, but not clearly heard, but stops when he notices Gordon. after Mag stops, he clears his throat,
 
 MAGNUSSON: "Didn't see you there, Gordon," he fixes his tie, "I was comforting Alyx over here."
 
-MAG: "Right Alyx?" 
+MAG: "Right Alyx?" He asks her.
 
-He asks her. She looks up at Gordon then to Mag and back before speaking, 
+She looks up at Gordon then back at Mag before speaking, 
 
 ALYX: "Yes, he was helping me." 
 
@@ -163,10 +166,7 @@ The helicopter lifts up, and the chapter ends.
 
 CHAPTER 2
 
-There would be 3 people in the helicopter
-Gordon, Alyx, And a rebel pilot (cause i don't think alyx or gordon could fly a helicopter)
-
-In the helicopter flying to the arctic
+Gordon, Alyx, And a rebel pilot. In the helicopter flying to the arctic.
 
 Alyx: Gordon, I know you didn't have to do this. It was my fath...
 
@@ -176,7 +176,7 @@ The Pilot: What? I’m receiving multiple signals of objects coming to~ Oh No!! 
 
 Alyx: What? Oh no, 
 
-The pilot would try to out maneuver but it would be too much to dodge
+The pilot would try to outmaneuver but it would be too much to dodge
 
 The Pilot: Brace Yourselves! Prepare for Impact!!!!
 
@@ -198,23 +198,31 @@ The screen would be a bit blurry
 
 Alyx: "Gordon... no... please no.... not again..."
 
-Gordon Stands up
+Gordon stands up
 
-Alyx: Gordon! Oh god i thought you...
+Alyx: Gordon! Oh god I thought you...
 
 Alyx would give Gordon a hug. After that, the player would have full control
 
 All the weapons are gone except the Grav gun and Alyx's gun
 
+ALYX: "I think your gravity gun is over there. I still have my gun."
+
+pause
+
+ALYX: "There are some combine headed this way. We need that gravity gun."
+
+Combine scouts arrive. You have to kill them with the gravity gun, they have pistols.
+
 You can see the combine outpost from the crash.
 
-As you explore the crash, some combine scouts arrive. You have to kill them with the gravity gun, they have pistols.
+ALYX: "That is where the coordinates judith sent point to. Let's head that way."
 
 ********
 
-You and alyx walk toward the outpost. As the duo travels through the snow for a short period of time, Alyx speaks in a malencholy tone, 
+You and Alyx walk toward the outpost. As the duo travels through the snow for a short period of time, Alyx speaks in a melancholy tone, 
 
-ALYX: "You shouldn't have came, Gordon. I'm sorry that you came, but you should not have followed me." 
+ALYX: "You shouldn't have came, Gordon. I'm sorry that you came, and that you followed me." 
 
 She looks at Gordon ocassionally, and sometimes stopping to turn to him. 
 
@@ -246,24 +254,17 @@ You walk around a little bit and grab some pieces of a machine. Once you put abo
 
 ALYX: "What's happening down there?"
 
-You fight some more, then get the lift to finish. Once the lift is going up some more aliens attack you
+You fight some more, then get the lift to start. Once the lift is going up some more aliens attack you
 
 
 ********
 
+Alyx comes down and you explore the cave
+
+LEVEL DESIGNERS THE CAVE IS FOR YOU TO DECIDE AT THIS POINT
 
 ********
 
-The outpost seems deserted, as you walk around you don't see anything. When you enter a building, you see stalkers imprisoned.
-Alyx whimpers a little bit, then feels sorry for them.
-You put them to sleep with a button.
-As you keep on going, exploring the buildings, there could be some caves in them and antlions will jump out and attack you from them.
-You could have to go through a cave to get past a wall or something.
-Eventually you are walking around a corner and alyx stops you
 
-ALYX: "Shh, I hear something."
-You pause and you hear breens voice
-
-BREEN: "You can't find the Borealis? How idiotic are you?"
 
 The Chapter ends
