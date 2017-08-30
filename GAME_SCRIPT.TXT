@@ -19,7 +19,7 @@ KLEINER: "Good morning Freeman!" Kleiner would say happily then fall into a depr
 
 Kleiner places his radio down and approaches Freeman
 
-KLEINER: "I've known Eli for many long years; in fact, I still remember the day when he entered Black Mesa. I knew he would be special in some way, yet I was ignorant until now. I wish he was told of how important he was to everyone before his unjust death, but there is no need to cry now; there's only need to be happy. I am sure Alyx would help finish what he began, but I'm not sure how she's holding up. Can you check on her? I know that she is a very strong young woman, but witnessing her father die might have broken her. From what I hear, she's in another hanger area, so please check on her - she might need you, Gordon." 
+KLEINER: "I've known Eli for many long years; in fact, I still remember the day when he entered Black Mesa. I knew he would be special in some way, yet I was ignorant until now. I wish he was told of how important he was to everyone before his unjust death, but there is no need to cry now; there's only need to be happy. I am sure Alyx would help finish what he began, but I'm not sure how she's holding up. Can you check on her? I know that she is a very strong young woman, but witnessing her father die might have broken her. From what I hear, she's in another hanger area, so please check on her - she might need you, Gordon. Oh, and I just finished fixing up your old Gravity Gun. It is over there."
 
 Kleiner walks to other experiments, checking on them and doing stuff as he speaks, including desperately looking for Lamarr.
 
@@ -206,11 +206,13 @@ Alyx would give Gordon a hug. After that, the player would have full control
 
 All the weapons are gone except the Grav gun and Alyx's gun
 
+You can see the combine outpost from the crash.
+
 As you explore the crash, some combine scouts arrive. You have to kill them with the gravity gun, they have pistols.
 
 ********
 
-Alyx uses "a device" to follow mossman's coordinates. As the duo travels through the snow for a short period of time, Alyx speaks in a malencholy tone, 
+You and alyx walk toward the outpost. As the duo travels through the snow for a short period of time, Alyx speaks in a malencholy tone, 
 
 ALYX: "You shouldn't have came, Gordon. I'm sorry that you came, but you should not have followed me." 
 
