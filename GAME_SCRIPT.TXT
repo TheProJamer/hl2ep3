@@ -174,7 +174,7 @@ The radar goes of seeing multiple objects coming at them
 
 The Pilot: What? I’m receiving multiple signals of objects coming to~ Oh No!! They’re onto us!
 
-Alyx: What? Oh no, 
+Alyx: What? Oh no.
 
 The pilot would try to outmaneuver but it would be too much to dodge
 
@@ -192,7 +192,7 @@ The helicopter crashes
 
 Alyx: No!
 
-the screen would go black for a second and you would hear the gordon freeman breathing and after a few seconds you would see gordon freeman opening his eyes
+the screen would go black for a second and you would hear the Gordon breathing and after a few seconds you would see Gordon opening his eyes.
 
 The screen would be a bit blurry
 
@@ -204,23 +204,25 @@ Alyx: Gordon! Oh god I thought you...
 
 Alyx would give Gordon a hug. After that, the player would have full control
 
+There are some tall towers with power lines going between them near you.
+
 All the weapons are gone except the Grav gun and Alyx's gun
 
 ALYX: "I think your gravity gun is over there. I still have my gun."
 
-pause
+Alyx sees some combine
 
-ALYX: "There are some combine headed this way. We need that gravity gun."
+ALYX: "There are some combine headed this way. Hide!"
 
-Combine scouts arrive. You have to kill them with the gravity gun, they have pistols.
+The scouts arrive. 
 
-You can see the combine outpost from the crash.
+ALYX: "Look, Gordon! we could really use some weapons right now."
 
-ALYX: "That is where the coordinates judith sent point to. Let's head that way."
+You choose to stay hidden, or attack them. If you stay hidden, patrols will not attack you on your journey. If you attack, they patrols will attack you on your journey.
 
 ********
 
-You and Alyx walk toward the outpost. As the duo travels through the snow for a short period of time, Alyx speaks in a melancholy tone, 
+You and Alyx walk toward the power lines. The wind starts turning into a snowstorm. As the duo travels through the snow for a short period of time, Alyx speaks in a melancholy tone, 
 
 ALYX: "You shouldn't have came, Gordon. I'm sorry that you came, and that you followed me." 
 
@@ -255,7 +257,6 @@ You walk around a little bit and grab some pieces of a machine. Once you put abo
 ALYX: "What's happening down there?"
 
 You fight some more, then get the lift to start. Once the lift is going up some more aliens attack you
-
 
 ********
 
