@@ -206,17 +206,35 @@ Alyx would give Gordon a hug. After that, the player would have full control
 
 All the weapons are gone except the Grav gun and Alyx's gun
 
+As you explore the crash, some combine scouts arrive. You have to kill them with the gravity gun, they have pistols.
+
 ********
 
-Alyx uses "a device" to follow mossman's coordinates. Eventually they find the combine outpost.
+Alyx uses "a device" to follow mossman's coordinates. As the duo travels through the snow for a short period of time, Alyx speaks in a malencholy tone, 
 
-As they approach it, they don't see a entrance. Alyx proposes you walk around it. As you walk around, you see a dropoff. As you near it, you see a body. This body has a Ice Pick
+ALYX: "You shouldn't have came, Gordon. I'm sorry that you came, but you should not have followed me." 
 
-ALYX: "That could be useful. Lets bring it with us."
+She looks at Gordon ocassionally, and sometimes stopping to turn to him. 
 
-Once you get to the edge of the cliff, you see a ledge below.
+ALYX: "Eli was my father, not yours. I have to finish what he wanted; you shouldn't have wanted to help." She continues, "The Rebellion needs you, Gordon, but they don't need me. If you die here, what will happen? But if I die here, nothing will change." 
 
-ALYX: "I think you can get to the ledge with that icepick. Lets try it."
+She sighs, 
+
+ALYX: "I'm sorry, Gordon." 
+
+Eventually they find the combine outpost.
+
+*********
+
+As they approach it, they don't see a entrance. Alyx proposes you walk around it. As you walk around, you see a dropoff. As you near it, you see a body. This body is hanging from the edge by two ice picks, it is frozen to them. 
+
+ALYX: "Those could be useful. Lets bring it with us."
+
+You have to use E to grab the picks and the body will fall.
+
+You then see a ledge below.
+
+ALYX: "I think you can get to the ledge with those icepicks. Lets try it."
 
 You get there and climb down to the bottom.
 
