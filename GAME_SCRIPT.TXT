@@ -19,9 +19,9 @@ KLEINER: "Good morning Freeman!" Kleiner would say happily then fall into a depr
 
 Kleiner places his radio down and approaches Freeman
 
-KLEINER: "I've known Eli for many long years; in fact, I still remember the day when he entered Black Mesa. I knew he would be special in some way, yet I was ignorant until now. I wish he was told of how important he was to everyone before his unjust death, but there is no need to cry now; there's only need to be happy. I am sure Alyx would help finish what he began, but I'm not sure how she's holding up. Can you check on her? I know that she is a very strong young woman, but witnessing her father die might have broken her. From what I hear, she's in another hangar area, so please check on her - she might need you, Gordon. Oh, and I just finished fixing up your old Gravity Gun. It is over there."
+KLEINER: "I've known Eli for many long years; in fact, I still remember the day when he entered Black Mesa. I knew he would be special in some way, yet I was ignorant until now. I wish he was told of how important he was to everyone before his unjust death, but there is no need to cry now; there's only need to be happy. I am sure Alyx would help finish what he began. She's been very strong these last few days, stronger than anyone could be expected to be after a tragedy such as this has befallen, but [talking more slowly and carefully] she hasn't quite been herself lately. Could you see how she's going? She's just in that hangar over there.  Oh, and Gordon, I just finished fixing up your Gravity Gun. It's over there."
 
-Kleiner walks to other experiments, checking on them and doing stuff as he speaks, including desperately looking for Lamarr.
+Kleiner walks to other experiments, checking on them and doing stuff as he speaks, including looking for Lamarr, who has gone missing yet again.
 
 The door to Alyx's hangar would be opened once you got the grav gun.
 
@@ -58,44 +58,44 @@ REBEL TALKS
 
 	REBEL 3: "Well, seems like they are preparing us to travel for the search of that so-called "Borealis""
 
-	REBEL 4: "Yeah, I've heard that ship was lost ages ago, and it has a lot of science stuff inside of it"
+	REBEL 4: "Yeah, I've heard that ship was lost ages ago, and it has a lot of technology from Aperture Science inside of it"
 
-	REBEL 3: "What type of science stuff."
+	REBEL 3: "What technolgy is in there, exactly>"
 
 	REBEL 4: "I believe its something powerful, like... I don't know, maybe a super weapon or something like that"
 
-	REBEL 3: "Whew, Do you think they will let us use it?"
+	REBEL 3: "Incredible! Do you think that could take the Combine down once and for all?"
 
-	REBEL 4: "We are not going to play with some toys, we are going to destroy that ship when we will find it."
+	REBEL 4: "We're not going to use it, we're going to destroy it. That technology could be as unpredictable as that damn sample back at Black Mesa..."
 
-	REBEL 3: "WHAT? Why do they want us to do that? It's stupid"
+	REBEL 3: "Why should we put it to waste? Isn't any chance better than none, with all that the blasted Combine have destroyed on this planet?"
 
-	REBEL 4: "Calm down, I am sure we will know once we get there"
+	REBEL 4: "Calm down, I'm sure Magnusson and Alyx have their reasons..."
 
-	REBEL 3: "But, I don't understand, if that Borealis thing can help us to win this blasted war, Why do they want to blow the crap out of it? We..."
+	REBEL 3: "But why? If that Borealis thing can help us to win this blasted war, why do they want to blow the crap out of it? We..."
 
-	REBEL 4: "They must have their reasons, we need to trust them. We are not scientists anyway."
+	REBEL 4: "Who are we to question their analysis? We're not scientists, anyway."
 
 
-	REBEL 5: "What do you think about Dr. Magnusson and Dr. Kleiner arguing about the Borealis?"
+	REBEL 5: "What do you think about us being ordered to blow the Borealis to smithereens? I heard Dr. Kleiner and Dr. Magnusson got pretty heated about it yesterday..."
 
-	REBEL 6: "I think we should be quiet and let them do their thing."
+	REBEL 6: "I think we should shut up and let them do their thing."
 
-	REBEL 5: "Really? I would like to know what I am going to be ordered to do."
+	REBEL 5: "Really? I'd like to know why I'm being ordered to do what I'm being ordered to do."
 
 	REBEL 6: "You want to get removed over a stupid ship?"
 
-	REBEL 5: "Of course not, I just want to know what they are doing. Eli always told us."
+	REBEL 5: "Of course not, I just want to know why we're destroying it. Eli always told us the purpose of our actions."
 
-	REBEL 6: "Well, Eli's dead. So just do your work."
+	REBEL 6: "Well, Eli's dead, so we can't be sure what he thought. I recommend you keep your thoughts to yourself around here."
 
-	REBEL 5: "You can't expel me. People can't get kicked out of rebels."
+	REBEL 5: "Since when did a rebel ever get removed"
 
-	REBEL 6: "Well I think I can arrange something if you really want to."
+	REBEL 6: "Well I think I can arrange something if you really feel like it, you damn idiot!"
 
-	REBEL 5: "Ok, I will be quiet."
+	REBEL 5: "Ok, I'll shut up."
 
-	REBEL 6: "Finally."
+	REBEL 6: "About time."
 	
 REBEL RESPONSES BELOW
 
@@ -114,13 +114,13 @@ REBEL RESPONSES BELOW
 	"I wonder how Alyx is dealing with all this."
 	"God, what I would do for a drink around here."
 	"I've lost a whole lot back at City 17, and not much has changed. I'm going to miss Eli."
-	"I'm going to take a finger from each Combine freak I see to honour Eli. If they have any."
+	"I'm going to take a finger from each Combine freak I see to honour Eli. If they have anything other than a great bubbling mesh of hate, that is."
 	"I miss my home, Freeman, and now I must miss someone like Eli. Please, avenge Mister Vance and finish this war. I want to go 		home."
 	"Sometimes... I dream about cheese."
 	"You smell that? That's freedom."
 	"We're about to drop the hammer, you'll see."
 	"Please. Don't keep me waiting."
-	"We should be used to these things happening by now. We know it's bound to happen sooner or later, but when they do... it never gets easier. It never does"
+	"We should be used to these things happening by now. We know it's bound to happen sooner or later, but when they do... it never gets easier. It never does."
 
 **********
 
